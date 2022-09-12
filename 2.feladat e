@@ -1,1 +1,1 @@
-
+SELECT ProductName, Unit, Price FROM Products WHERE ProductName LIKE 'T%';
